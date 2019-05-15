@@ -1,0 +1,30 @@
+C:\Users\Ashhad Ullah\Desktop\wind\wind\bin\Debug\wind.exe.config
+C:\Users\Ashhad Ullah\Desktop\wind\wind\bin\Debug\wind.exe
+C:\Users\Ashhad Ullah\Desktop\wind\wind\bin\Debug\wind.pdb
+C:\Users\Ashhad Ullah\Desktop\wind\wind\obj\Debug\wind.csprojResolveAssemblyReference.cache
+C:\Users\Ashhad Ullah\Desktop\wind\wind\obj\Debug\wind.Form1.resources
+C:\Users\Ashhad Ullah\Desktop\wind\wind\obj\Debug\wind.Properties.Resources.resources
+C:\Users\Ashhad Ullah\Desktop\wind\wind\obj\Debug\wind.csproj.GenerateResource.Cache
+C:\Users\Ashhad Ullah\Desktop\wind\wind\obj\Debug\wind.exe
+C:\Users\Ashhad Ullah\Desktop\wind\wind\obj\Debug\wind.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\CLIENT\wind\bin\Debug\wind.exe.config
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\CLIENT\wind\obj\Debug\wind.exe
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\CLIENT\wind\obj\Debug\wind.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\bin\Debug\wind.exe.config
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.exe
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\bin\Debug\wind.exe
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\bin\Debug\wind.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.csprojResolveAssemblyReference.cache
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.Form1.resources
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.Properties.Resources.resources
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.csproj.GenerateResource.Cache
+D:\PINGPONG_NP\BLACK PLAYER\wind\bin\Debug\wind.exe.config
+D:\PINGPONG_NP\BLACK PLAYER\wind\obj\Debug\wind.exe
+D:\PINGPONG_NP\BLACK PLAYER\wind\obj\Debug\wind.pdb
+D:\PINGPONG_NP\BLACK PLAYER\wind\bin\Debug\wind.exe
+D:\PINGPONG_NP\BLACK PLAYER\wind\bin\Debug\wind.pdb
+D:\PINGPONG_NP\BLACK PLAYER\wind\obj\Debug\wind.csprojResolveAssemblyReference.cache
+D:\PINGPONG_NP\BLACK PLAYER\wind\obj\Debug\wind.Form1.resources
+D:\PINGPONG_NP\BLACK PLAYER\wind\obj\Debug\wind.Properties.Resources.resources
+D:\PINGPONG_NP\BLACK PLAYER\wind\obj\Debug\wind.csproj.GenerateResource.Cache
